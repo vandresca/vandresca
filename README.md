@@ -1,4 +1,4 @@
-### Hola, mi nombre es Víctor 👋
+## Hola, mi nombre es Víctor 👋
 
 ## Mira mi portfolio en el siguiente enlace:
 https://vandresca.github.io/portfolio/
