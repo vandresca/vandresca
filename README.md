@@ -1,8 +1,7 @@
 ## Hola, mi nombre es Víctor 👋
 
 ## Mira mi portfolio en el siguiente enlace:
-http://vandresca.atwebpages.com
-<!--https://vandresca.github.io/portfolio/-->
+https://vandresca.github.io/portfolio/
 
 
 <!--
